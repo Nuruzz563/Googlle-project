@@ -5,7 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 section{
-    position: ;
+    position:0;
     width: 100%;
     display: flex;
     justify-content: center;
